@@ -12,8 +12,10 @@
 }
 
 .titre{
-
-	margin-top: 8% ;
+;
 	position: sticky;
 	
+}
+.menuitem{
+	clear: left;
 }
