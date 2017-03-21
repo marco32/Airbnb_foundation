@@ -1,0 +1,19 @@
+.orange{
+	color:#ff5a5f;
+}
+
+.scrolllockbar{
+
+	z-index: 10;
+	background: #ffffff;
+	position: fixed;
+	top: 0px;
+	width: 100%
+}
+
+.titre{
+
+	margin-top: 8% ;
+	position: sticky;
+	
+}
